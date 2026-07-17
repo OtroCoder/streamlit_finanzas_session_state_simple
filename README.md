@@ -91,7 +91,7 @@ streamlit run app.py
 
 ## Ejercicio para la clase
 
-    ##Elaborado por Otto Morales
+Elaborado por Otto Morales
 
 1. Cambiar los valores del interés simple.
 2. Realizar el cálculo.
